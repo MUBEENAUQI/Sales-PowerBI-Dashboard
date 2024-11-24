@@ -19,6 +19,7 @@ Pages Included:
 **Returns Analysis**:
 Visualizes product categories with high return rates.
 Shows the financial impact of returns on profits.
+
 **Customer Insights**:
 Highlights customer demographics and purchasing behavior.
 Analyzes sales contributions from different customer segments.
